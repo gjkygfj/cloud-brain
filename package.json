@@ -1,0 +1,13 @@
+{
+  "name": "cloud-brain",
+  "version": "1.0.0",
+  "description": "Cloud Brain for my Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^10.4.0"
+  }
+}
